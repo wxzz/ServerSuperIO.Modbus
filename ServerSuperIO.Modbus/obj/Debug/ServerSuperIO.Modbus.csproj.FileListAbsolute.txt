@@ -1,0 +1,16 @@
+C:\Users\WXZZ\Desktop\Modbus\NModbus4-portable-3.0\ServerSuperIO.Modbus\obj\Debug\ServerSuperIO.Modbus.csproj.CoreCompileInputs.cache
+C:\Users\WXZZ\Desktop\Modbus\NModbus4-portable-3.0\ServerSuperIO.Modbus\bin\Debug\ServerSuperIO.Modbus.dll
+C:\Users\WXZZ\Desktop\Modbus\NModbus4-portable-3.0\ServerSuperIO.Modbus\bin\Debug\ServerSuperIO.Modbus.pdb
+C:\Users\WXZZ\Desktop\Modbus\NModbus4-portable-3.0\ServerSuperIO.Modbus\obj\Debug\ServerSuperIO.Modbus.dll
+C:\Users\WXZZ\Desktop\Modbus\NModbus4-portable-3.0\ServerSuperIO.Modbus\obj\Debug\ServerSuperIO.Modbus.pdb
+C:\Users\WXZZ\Desktop\Modbus\NModbus4-portable-3.0\ServerSuperIO.Modbus\obj\Debug\ServerSuperIO.Modbus.csprojResolveAssemblyReference.cache
+F:\工作目录\工作区\平台软件\Modbus\NModbus4-portable-3.0\ServerSuperIO.Modbus\bin\Debug\ServerSuperIO.Modbus.dll
+F:\工作目录\工作区\平台软件\Modbus\NModbus4-portable-3.0\ServerSuperIO.Modbus\bin\Debug\ServerSuperIO.Modbus.pdb
+F:\工作目录\工作区\平台软件\Modbus\NModbus4-portable-3.0\ServerSuperIO.Modbus\obj\Debug\ServerSuperIO.Modbus.csproj.CoreCompileInputs.cache
+F:\工作目录\工作区\平台软件\Modbus\NModbus4-portable-3.0\ServerSuperIO.Modbus\obj\Debug\ServerSuperIO.Modbus.dll
+F:\工作目录\工作区\平台软件\Modbus\NModbus4-portable-3.0\ServerSuperIO.Modbus\obj\Debug\ServerSuperIO.Modbus.pdb
+F:\工作目录\工作区\平台软件\ServerSuperIO.Modbus\ServerSuperIO.Modbus\bin\Debug\ServerSuperIO.Modbus.dll
+F:\工作目录\工作区\平台软件\ServerSuperIO.Modbus\ServerSuperIO.Modbus\bin\Debug\ServerSuperIO.Modbus.pdb
+F:\工作目录\工作区\平台软件\ServerSuperIO.Modbus\ServerSuperIO.Modbus\obj\Debug\ServerSuperIO.Modbus.csproj.CoreCompileInputs.cache
+F:\工作目录\工作区\平台软件\ServerSuperIO.Modbus\ServerSuperIO.Modbus\obj\Debug\ServerSuperIO.Modbus.dll
+F:\工作目录\工作区\平台软件\ServerSuperIO.Modbus\ServerSuperIO.Modbus\obj\Debug\ServerSuperIO.Modbus.pdb
